@@ -1,0 +1,8 @@
+Required Hardware
+===================
+1. Arduino Mega
+2. L298N Motor Driver
+3. HC-05 Bluetooth Module
+4. DC Motor (4)
+5. Mini Breadboard
+6. Lipo Battery (1000mAh)
