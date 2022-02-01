@@ -15,7 +15,7 @@ void loop(){
   control();
 }
 
-// All the Controls of the Wheel Chair
+// All the Controls of the Soccer Bot
 void control() {
   if (Serial.available() > 0)
   {

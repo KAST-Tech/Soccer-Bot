@@ -1,8 +1,22 @@
 Required Hardware
 ===================
-1. Arduino Mega
-2. L298N Motor Driver
-3. HC-05 Bluetooth Module
-4. DC Motor (4)
-5. Mini Breadboard
-6. Lipo Battery (1000mAh)
+01. Arduino Mega
+02. L298N Motor Driver
+03. HC-05 Bluetooth Module
+04. DC Motor (4)
+05. Mini Breadboard
+06. Lipo Battery (1000mAh)
+07. Jumper Wires(Male to Male)
+08. White Thin Plywood Board
+09. Wheel (4)
+10. L-shaped Extension
+11. Screws, Nut and Bolts
+
+Required Tools
+================
+1. Screw Driver Set
+2. Anti-cutter
+3. Drill Machine
+4. Glue Gun with Glue Stick
+5. Soldering Iron with Lead
+6. Digital Multimeter
